@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Loading ...</title>
+    <link>https://umbrellaaaa.github.io/tags/</link>
+    <description>Recent content in Tags on Loading ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Thu, 14 May 2020 15:54:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://umbrellaaaa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>others</title>
+      <link>https://umbrellaaaa.github.io/tags/others/</link>
+      <pubDate>Thu, 14 May 2020 15:54:12 +0800</pubDate>
+      
+      <guid>https://umbrellaaaa.github.io/tags/others/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
